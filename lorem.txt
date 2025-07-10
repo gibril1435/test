@@ -1,0 +1,4 @@
+b1a6eac (HEAD -> master) Fourth commit: add contact.html
+dbc65f6 Third commit: add about.html
+b352227 Second commit: update index.html
+355e0f8 First commit: create index.html
